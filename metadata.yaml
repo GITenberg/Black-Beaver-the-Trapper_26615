@@ -1,0 +1,28 @@
+_repo: Black-Beaver-the-Trapper_26615
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lewis, James Campbell
+    birthdate: 1879
+    gutenberg_agent_id: '32125'
+    url: http://www.gutenberg.org/2009/agents/32125
+  - agent_name: Lewis, George Edward
+    gutenberg_agent_id: '32126'
+    url: http://www.gutenberg.org/2009/agents/32126
+description: ''
+gutenberg_issued: '2008-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trapping'
+- !lcc 'SK'
+title: Black Beaver, the Trapper
+url: http://www.gutenberg.org/ebooks/26615
