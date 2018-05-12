@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32126'
     url: http://www.gutenberg.org/2009/agents/32126
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26615#Black-Beaver-the-Trapper
 gutenberg_issued: '2008-08-14'
 gutenberg_type: Text
 identifiers:
